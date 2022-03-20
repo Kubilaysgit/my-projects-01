@@ -1,2 +1,2 @@
-# my-projects-01
+# my-projects-AWS
 This repo is build for all my profolios and projects.
