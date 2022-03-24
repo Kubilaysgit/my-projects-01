@@ -1,0 +1,9 @@
+instructor:
+  name: kobe
+  department: aws-devops
+  job: cloud trainee
+student:
+  - name: Ali
+    age: 29
+  - Veli
+  - Mehmet
